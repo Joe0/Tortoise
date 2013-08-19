@@ -1,5 +1,3 @@
-Tortoise is a chess engine written in Java, that is UCI compatible.
-
 The aim of the project is to create a better engineered and ultimately, more intelligent chess engine.  Intelligent in the sense that it should be able to play just as well, even though it is written in Java.
 
 Tortoise will also be highly scalable, so if needed it can match the throughput of engines written in faster languages by out-scaling them.
@@ -7,3 +5,5 @@ Tortoise will also be highly scalable, so if needed it can match the throughput 
 The domain model will be heavily emphasized to facilitate input from the general chess community.
 
 One of the most unique aspects of Tortoise will be the idea of it generating plans, to be used in the evaluation of positions, and cut down on the amount of hard-coded values.  This will create a more dynamic, and intelligent evaluation algorithm, that changes with the position.
+
+Note: This project is no longer in development.
